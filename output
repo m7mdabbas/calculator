@@ -1,0 +1,7 @@
+class Output: 
+    def __init__(self): 
+        self.result = 0 
+  
+    # Print result 
+    def print_result(self, result): 
+        print('The result', result) 
